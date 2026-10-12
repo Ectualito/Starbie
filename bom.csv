@@ -1,0 +1,7 @@
+﻿"No.","Quantity","Comment","Designator","Footprint","Value","Manufacturer Part","Manufacturer","Supplier Part","Supplier","LCSC Price","LCSC Stock","JLCPCB Price"
+"1","2","BUTTON1","KEY1,KEY2","KEY-SMD_4P-L6.0-W6.0-P4.50-LS9.0","","BUTTON1","","C9900018962","LCSC","","","0.006"
+"2","1","MC096GW","OLED1","OLED-TH_4P-L27.8-W27.3_MC096GW","","MC096GW","","C9900209498","LCSC","","",""
+"3","1","10kΩ","R1","R1206","10kΩ","1206W4F1002T5E","UNI-ROYAL(厚声)","C17902","LCSC","","","0.0013"
+"4","1","DHT11","S1","SENSOR-TH_DHT11-1","","DHT11","","C87032","LCSC","","","0.1624"
+"5","1","MPU6050-TH","U1","COMM-TH_MPU6050-TH","","MPU6050-TH","","C9900132629","LCSC","","",""
+"6","1","XIAO ESP32C3","U2","CONN-SMD_XIAO_ESP32C3","","XIAO ESP32C3","","C19189385","LCSC","","","0.6368"
